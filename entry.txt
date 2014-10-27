@@ -1,0 +1,10 @@
+Allegro ID #: 1075
+Name: Kdevil
+Game Name: AntiMeteors
+Description:
+  Survival - Try to survive as long as possible while the meteors keep coming
+  Make It Classic - The resolution is 320x200, there are no more than 16 colors on the screen at once, and the keyboard setup uses the number of buttons on an NES controller.
+  Randomness - The attributes of the game at the beginning are random, and the meteors fall at random
+  Dichotomy - The meteors are made of antimatter, and therefore explode whenever they come into contact with anything
+  World Map - There is a world map on the title screen
+I originally compiled the game using Dev-C++ and Allegro 4.1, but since it only uses allegro there shouldn't be hard to compile.
